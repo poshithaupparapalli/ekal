@@ -1,2 +1,2 @@
 # ekal
-learns how your business works, automates the repetitive work, and gives you more time to work on the business, not in it.
+ekal discovers repetitive workflows from how you work and turns them into orchestrated background agents, so you can work on the business, not in it.
